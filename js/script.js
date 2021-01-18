@@ -172,8 +172,8 @@ monogatari.script ({
 	],
 
 	'vaksin1': [
-		//'show video video1 modal immersive with close',
-		//'',
+		'show video video1 modal immersive with close',
+		'',
 		'show background bg1 with fadeIn',
 		'play music bm1 with loop with volume 10',
 		'show character d d1 at left with fadeIn',
@@ -253,8 +253,8 @@ monogatari.script ({
 	],
 
 	'vaksin2': [
-		//'show video video1 modal immersive with close',
-		//'',
+		'show video video1 modal immersive with close',
+		'',
 		'play music bm1 with loop with volume 10',
 		'show background bg1 with',
 		'show character s s6 with fadeIn',
