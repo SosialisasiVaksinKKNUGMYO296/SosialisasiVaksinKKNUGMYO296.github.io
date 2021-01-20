@@ -263,6 +263,7 @@ monogatari.script ({
 		'hide character s',
 		'stop music bm1',
 		'show video materi2 modal immersive with close',
+		"",
 		'play music bm1 with loop with volume 10',
 		'show character d d9 with fadeIn at left',
 		'show character s s5 with fadeIn at right',
